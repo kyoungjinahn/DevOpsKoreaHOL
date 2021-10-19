@@ -5,6 +5,12 @@
 
 ### Resolved 처리를 위한 .md 파일 수정
 
+
+페이지 수정
+페이지 수정
+페이지 수정
+
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행했던 Hands on Lab입니다.
